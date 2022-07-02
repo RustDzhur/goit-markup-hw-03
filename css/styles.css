@@ -385,7 +385,7 @@ p {
 .cards-item {
     margin-right: 30px;
     margin-bottom: 30px;
-    outline: 1px solid #EEEEEE;
+    border-bottom: 1px solid #EEEEEE;
 }
 
 .cards-item:nth-child(3n + 3) {
